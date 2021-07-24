@@ -15,3 +15,5 @@ npx sequelize db:migrate
 Defaz ultima migration
 npx sequelize db:migrate:undo
 
+Adicionar ao projeto
+https://www.npmjs.com/package/consign
